@@ -3,11 +3,6 @@ h1 {
     color:white;
 }
 
-a:hover {
-    text-decoration: underline;
-    color: #edc2d8;
-}
-
 nav {
     top: 0;
     left: 0;
@@ -74,4 +69,9 @@ footer {
     background-color: #8c4969;
     padding-top: 1rem;
     font-size: 80%;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #edc2d8;
 }
